@@ -92,17 +92,15 @@ function App() {
 <p>No users added.</p>
       ) : (
 <ul>
-          {state.map((user) => (
-<li key={user.id}>
-<strong>{user.name}</strong> ({user.email}){' '}
-
-<button onClick={() => handleEdit(user)}> Edit</button>{' '}
-<button onClick={() => handleDelete(user.id)}> Delete</button>
-
-
-</li>
-          ))}
+  {state.map((user) => (
+    <li key={user.id} style={{ marginBottom: '12px' }}>
+      <strong>{user.name}</strong> ({user.email}){' '}
+      <button onClick={() => handleEdit(user)} style={{ marginRight: '10px' }}>Edit</button>
+      <button onClick={() => handleDelete(user.id)}>Delete</button>
+    </li>
+  ))}
 </ul>
+
       )}
 <br />
 </div>
