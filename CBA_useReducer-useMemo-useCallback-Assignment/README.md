@@ -16,7 +16,3 @@
   <img width="400" alt="Screenshot 2025-07-26 at 8 58 15 PM" src="Varsha.H_React_Assignment/Screenshot 2025-07-28 at 6.58.17 PM.png" />
 </p>
 
-### Link (React Assignment) 
- [PlayCode Editor](https://playcode.io/2481352)
- 
----
