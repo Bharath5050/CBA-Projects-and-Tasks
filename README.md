@@ -3,5 +3,5 @@
 ### Common Wealth Bank of Australia Apprenticeship
 
 <p align="center">
-  <img width="1600" alt="Photo" src="" />
+  <img width="1600" alt="Photo" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA.png" />
 </p>
