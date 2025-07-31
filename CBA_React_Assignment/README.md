@@ -42,7 +42,7 @@ You usually don’t need to use this unless you have very specific customization
 
 ### 📂 Screenshot
 <p align="center">
-  <img width="400" alt="Result" src="CBA_React_Assignment/Results.png" />
+  <img width="400" alt="Result" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_React_Assignment/Results.png" />
 </p>
 
 ## 📚 Learn More
