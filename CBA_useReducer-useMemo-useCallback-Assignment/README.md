@@ -10,20 +10,20 @@
 
 ###  Screenshot
 <p align="center">
-  <img width="400" alt="Result - 2" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-2.png" />
+  <img width="900" alt="Result - 2" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-2.png" />
 </p>
 
 ## 📸 Screenshots-(useCallBack)
 
 ### Screenshot
 <p align="center">
-  <img width="400" alt="Result - 3" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-3.png" />
+  <img width="900" alt="Result - 3" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-3.png" />
 </p>
 
 ## 📸 Screenshots-(Combined = useReducer-useMemo-useCallback)
 
 ### Screenshot
 <p align="center">
-  <img width="400" alt="Result - 3" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-4.png" />
+  <img width="700" alt="Result - 3" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-4.png" />
 </p>
 
