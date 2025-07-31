@@ -3,7 +3,7 @@
 
 ### 📂Screenshot
 <p align="center">
-  <img width="700" alt="Result-1" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-1.png" />
+  <img width="900" alt="Result-1" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-1.png" />
 </p>
 
 ## 📸 Screenshots-(useMemo)
@@ -24,6 +24,6 @@
 
 ### Screenshot
 <p align="center">
-  <img width="700" alt="Result - 3" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-4.png" />
+  <img width="1000" alt="Result - 3" src="https://github.com/Bharath5050/CBA-Projects-and-Tasks/blob/main/CBA_useReducer-useMemo-useCallback-Assignment/Screenshots/result-4.png" />
 </p>
 
