@@ -37,6 +37,14 @@ If you need more control over the build tool and configuration, `eject` will cop
 
 You usually don’t need to use this unless you have very specific customizations.
 
+
+## 📸 Screenshots-(React)
+
+### 📂 Screenshot
+<p align="center">
+  <img width="400" alt="Result" src="CBA_React_Assignment/Results.png" />
+</p>
+
 ## 📚 Learn More
 
 - [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)  
